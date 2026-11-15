@@ -72,12 +72,7 @@ npm run dev
 
 ### 2. Access Points
 - **Public Portfolio**: [http://localhost:3000](http://localhost:3000)
-- **Admin Dashboard**: [http://localhost:3000/admin](http://localhost:3000/admin)
 
-### 3. Default Admin Credentials
-- **Username**: `admin`
-- **Password**: `admin123`
-*(Can be changed anytime inside the Admin Dashboard -> Settings tab)*
 
 ---
 
